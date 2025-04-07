@@ -1,30 +1,26 @@
-### 🐍 Hello, World! in Python
+# Hello World Python Project
 
-This repository includes a simple Python script that prints `Hello, World!` to the console.
+A simple "Hello, World!" program in Python to demonstrate basic project structure and execution.
 
-#### 📄 File: `hello.py`
+## Table of Contents
 
-```python
-print("Hello, World!")
-```
+*   [Getting Started](#getting-started)
+*   [Running the Program](#running-the-program)
+*   [License](#license)
 
-#### ▶️ How to Run the Program
+## Getting Started
 
-1. Make sure Python is installed on your computer.
-   - [Download Python here](https://www.python.org/downloads/)
+This project requires Python 3.6 or higher. No additional dependencies are required.
 
-2. Open a terminal or command prompt.
+## Running the Program
 
-3. Navigate to the directory where the file is saved (your repo folder):
-```bash
-cd path/to/your-repo
-```
+1.  Save the `hello.py` file to your computer.
+2.  Open a terminal or command prompt.
+3.  Navigate to the directory where you saved the file.
+4.  Run the program using the command: `python hello.py`
 
-4. Run the script:
-```bash
-python hello.py
-```
+You should see the output "Hello, World!" printed to the console.
 
-> If you have multiple versions of Python installed, you may need to use `python3 hello.py` instead.
+## License
 
----
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
